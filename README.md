@@ -3,17 +3,27 @@ Proof code that the Boy Girl Paradox predicted rates of 66% are wrong, and that 
 
 Results of a random run:
 
+
 Sample Size: 100000
 
+
 When first child mentioned is a GIRL:
+
   Total cases: 49992
+  
   Girl then Girl: 24794 (0.496)
+  
   Girl then Boy: 25198 (0.504)
+  
 
 When first child mentioned is a BOY:
+
   Total cases: 50008
+  
   Boy then Boy: 25045 (0.501)
+  
   Boy then Girl: 24963 (0.499)
+  
 
 
 
