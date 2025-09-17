@@ -14,10 +14,6 @@ When first child mentioned is a BOY:
   Boy then Boy: 25045 (0.501)
   Boy then Girl: 24963 (0.499)
 
-Total families sampled: 100000
-Total girl-first cases: 49992
-Total boy-first cases: 50008
-==================================================
 
 
 #Reasoning For The Difference Between The Proclaimed 66% Answer
