@@ -16,7 +16,7 @@ When first child mentioned is a BOY:
 
 
 
-#Reasoning For The Difference Between The Proclaimed 66% Answer
+# Reasoning For The Difference Between The Proclaimed 66% Answer
 
 The Boy/Girl Paradox scenario initially states how a mother tells you about one of her children that is a boy.  It then asks what are the odds the second child is a girl? The statistical answer commonly supported is 66%.  This common answer and explanation to the boy girl paradox is actually built upon an error, and is a good illustration of how selection bias creeps into statistics in seemingly benign situations. 
 
