@@ -1,6 +1,10 @@
 # BoyGirlParadox
-Proof code that the Boy Girl Paradox predicted rates of 66% are wrong, and that the results are actually 50/50.
+The code is designed to make a pool of "families", all with two children. From that pool, we randomly select a family.  Within that family, we will be randomly told about one of the children.  We will then look at what the other child is.  A counter is maintained that records the total of all outcomes.  We track how many first told us about a girl, and the other child is a boy.  We then track how many first told us about a girl and the other child is a girl.  The results of being told about a boy first are also tracked.
 
+The result is a proof that the Boy Girl Paradox predicted rates of 66% are wrong, and that the results are actually 50/50. 
+
+
+# Test Results:
 Results of a random run:
 
 
@@ -33,7 +37,6 @@ The Boy/Girl Paradox scenario initially states how a mother tells you about one 
 
 
 If you group the possibilities into BB, BG, GB, and GG then run the probabilities, then out of the three groups with at least one boy 2/3 of them will have a girl for the second child. 66% does seem like the right answer based on some very probability calculations.
-
 
 The issue is that these selections actually don't reflect the real world incidences.  In the previous calculations, we have assigned equal probability to the scenarios of BB, BG and GB pairs.  This is not actually the case. For example, we have to consider how much more likely a mom with two boys is likely to tell you about one of her boys, as compared to someone with a boy and a girl. The mother with two boys will always tell you about one of her boys, while the mothers in the boy/girl pairs are only 50% likely to mention they have a boy.  The other half of the time, they will mention their girl.  If we use expected value calculations, we actually get correct answers. Here is the proof.
 
