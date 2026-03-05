@@ -80,7 +80,7 @@ Only the BB group will tell you they have a second boy, which is 50/100. The odd
 It really is sort of crazy, that because of a simple misuse of statistics people will believe that the words used (whether they say one of their children is a boy vs saying their first child is a boy) will actually effect the odds of what the second child are. That is such an obviously wrong assertion... literally everyone knows thay is wrong (at first) but all it takes is a little bit of misapplied math and everyone believes it. 
 
 
-#When are the 2/3 and 1/3 probabilities applicable?
+# When are the 2/3 and 1/3 probabilities applicable?
 
   So when would the odds of the second boy be 1/3? Well, they would certainly be true when there is a survey. If you were to make a survey and send it to 10,000 parents with at least one boy, then you would get the classical results.  In fact, this survey is a common proof of the classical answer.  It's important to note though, that by asking the question yourself, you are making a selection.  You are grouping and dividing up the  set of families based on your own criteria.  That is perfectly fine, as long as we realize that this doesn't model a real life scenario where information is randomly presented to us.  
 
